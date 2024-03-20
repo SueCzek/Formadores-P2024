@@ -1,6 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
 header{
     background-color: #F3E245;
     text-align:left;
     font-family: 'roboto';
+    align-items: center;
+    padding: 24px 0;
     
+}
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    }
+.cabeçalho-imagem{
+    width: 20%;
+       
+}
+.cabeçalho-titulo{
+    font-family: roboto;
+    padding: 20px 0;
+    
+ 
+
 }
