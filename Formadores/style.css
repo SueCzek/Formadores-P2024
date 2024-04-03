@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #F3E245;
+    text-align:left;
+    font-family: 'roboto';
+    align-items: center;
+    padding: 24px 0;
+    
+}
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    }
+.cabeçalho-imagem{
+    width: 20%;
+       
+}
+.cabeçalho-titulo{
+    font-family: roboto;
+    padding: 20px 0;
+   
+}
+.curso{
+    display: flex;
+    background-image: linear-gradient(#F3E245,#737373);
+    justify-content: center;
+
+}
+.html-css-java{
+    background-image: linear-gradient(#F3E245,#737373);
+}
+.curso-titulo{
+    padding: 24px 0;
+}
+.curso-texto{
+    padding: 24px 0;
+
+}
+.curso-conteudo{
+    padding: 0 90px;
+}
