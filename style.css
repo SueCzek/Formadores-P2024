@@ -34,6 +34,8 @@ header{
 }
 .html-css-java{
     background-image: linear-gradient(#F3E245,#737373);
+    padding: 0 24px;
+    
 }
 .curso-titulo{
     padding: 24px 0;
@@ -62,11 +64,46 @@ header{
 }
 .ferramentas-div1{
     align-items: center;
-    justify-content: center;
-    padding: 16px 0;
+    justify-content:center;
+    padding: 50px 0;
     text-align: center;
+       
+}
+.todos-icones{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 
 }
+
+.footer{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 2px 2px;
+    border-top: 1px solid black;
+}
+.texto-alura{
+    color: gainsboro;
+}
+.rodape-w{
+    padding: 0 24px;
+    display: flex;
+    justify-content: center;
+  
+}
+.imagem-alura{
+    width: 20%;
+}
+.whats{
+    width: 2%;
+    height: 2%;
+}
+
+.numero{
+    color: gainsboro;
+}
+
+
     
 
 
